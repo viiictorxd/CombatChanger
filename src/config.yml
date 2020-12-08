@@ -1,0 +1,8 @@
+combat:
+  hit_delay: 0
+
+message:
+  no_permission: "&cInsufficient permission."
+  no_argument: "&cType /combat <new delay>."
+  error_min_delay: "&cThe minimum delay is 0."
+  delay_changed: "&aNew delay: {delay}."

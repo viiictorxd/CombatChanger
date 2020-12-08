@@ -1,0 +1,8 @@
+name: CombatChanger
+version: 1.0.0
+main: com.github.viiictorxd.combatchanger.CombatChanger
+author: ViiictorXD
+website: https://github.com/ViiictorXD
+commands:
+  combat:
+    aliases: [combatchanger]
